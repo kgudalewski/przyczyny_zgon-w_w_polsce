@@ -1,0 +1,26 @@
+Indicator Code: CG0780
+"Indicator Name: Other neoplasms"
+Export date: 1/13/2024 5:34:41 PM
+Source location: "WHO Mortality Database portal"
+"Indicator metadata: D00-D48"
+
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,"Age-standardized death rate per 100 000 standard population","Death rate per 100 000 population"
+EU,Europe,POL,Poland,2020,All,Age00,[0],2.00000000,0.15748031,,0.55380492,
+EU,Europe,POL,Poland,2020,All,Age01_04,[1-4],0.00000000,0.00000000,,0.00000000,
+EU,Europe,POL,Poland,2020,All,Age05_09,[5-9],2.00000000,1.30718954,,0.10445179,
+EU,Europe,POL,Poland,2020,All,Age10_14,[10-14],1.00000000,0.48543689,,0.04934948,
+EU,Europe,POL,Poland,2020,All,Age15_19,[15-19],4.00000000,0.62402496,,0.22474145,
+EU,Europe,POL,Poland,2020,All,Age20_24,[20-24],7.00000000,0.58236273,,0.35192627,
+EU,Europe,POL,Poland,2020,All,Age25_29,[25-29],8.00000000,0.45045045,,0.32569524,
+EU,Europe,POL,Poland,2020,All,Age30_34,[30-34],16.00000000,0.55788006,,0.56759447,
+EU,Europe,POL,Poland,2020,All,Age35_39,[35-39],31.00000000,0.65414644,,0.98795492,
+EU,Europe,POL,Poland,2020,All,Age40_44,[40-44],53.00000000,0.79151732,,1.77793045,
+EU,Europe,POL,Poland,2020,All,Age45_49,[45-49],95.00000000,1.01811167,,3.65346535,
+EU,Europe,POL,Poland,2020,All,Age50_54,[50-54],194.00000000,1.43863552,,8.65844917,
+EU,Europe,POL,Poland,2020,All,Age55_59,[55-59],362.00000000,1.64815152,,15.57336215,
+EU,Europe,POL,Poland,2020,All,Age60_64,[60-64],871.00000000,2.17940698,,32.25046802,
+EU,Europe,POL,Poland,2020,All,Age65_69,[65-69],1200.00000000,2.15660550,,48.45630332,
+EU,Europe,POL,Poland,2020,All,Age70_74,[70-74],1375.00000000,2.34026619,,74.85987592,
+EU,Europe,POL,Poland,2020,All,Age75_79,[75-79],1204.00000000,2.40621940,,117.42629647,
+EU,Europe,POL,Poland,2020,All,Age80_84,[80-84],1495.00000000,2.16742055,,169.66368006,
+EU,Europe,POL,Poland,2020,All,Age85_over,[85+],1931.00000000,1.38480515,,234.14716956,

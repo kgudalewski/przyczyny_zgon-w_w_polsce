@@ -1,0 +1,26 @@
+Indicator Code: CG0810
+"Indicator Name: Neuropsychiatric conditions"
+Export date: 1/13/2024 5:37:41 PM
+Source location: "WHO Mortality Database portal"
+"Indicator metadata: F01-F99, G06-G98 (minus G14), U07.0, X41, X42, X44, X45"
+
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,"Age-standardized death rate per 100 000 standard population","Death rate per 100 000 population"
+EU,Europe,POL,Poland,2020,All,Age00,[0],8.00000000,0.62992126,,2.21521967,
+EU,Europe,POL,Poland,2020,All,Age01_04,[1-4],8.00000000,3.86473430,,0.51475447,
+EU,Europe,POL,Poland,2020,All,Age05_09,[5-9],12.00000000,7.84313725,,0.62671072,
+EU,Europe,POL,Poland,2020,All,Age10_14,[10-14],15.00000000,7.28155340,,0.74024213,
+EU,Europe,POL,Poland,2020,All,Age15_19,[15-19],44.00000000,6.86427457,,2.47215594,
+EU,Europe,POL,Poland,2020,All,Age20_24,[20-24],54.00000000,4.49251248,,2.71485979,
+EU,Europe,POL,Poland,2020,All,Age25_29,[25-29],103.00000000,5.79954955,,4.19332618,
+EU,Europe,POL,Poland,2020,All,Age30_34,[30-34],238.00000000,8.29846583,,8.44296775,
+EU,Europe,POL,Poland,2020,All,Age35_39,[35-39],412.00000000,8.69381726,,13.13023955,
+EU,Europe,POL,Poland,2020,All,Age40_44,[40-44],512.00000000,7.64635603,,17.17547905,
+EU,Europe,POL,Poland,2020,All,Age45_49,[45-49],668.00000000,7.15893259,,25.68963004,
+EU,Europe,POL,Poland,2020,All,Age50_54,[50-54],793.00000000,5.88060808,,35.39252678,
+EU,Europe,POL,Poland,2020,All,Age55_59,[55-59],1011.00000000,4.60298671,,43.49356115,
+EU,Europe,POL,Poland,2020,All,Age60_64,[60-64],1417.00000000,3.54560240,,52.46717932,
+EU,Europe,POL,Poland,2020,All,Age65_69,[65-69],1569.00000000,2.81976170,,63.35661659,
+EU,Europe,POL,Poland,2020,All,Age70_74,[70-74],1238.00000000,2.10709058,,67.40111010,
+EU,Europe,POL,Poland,2020,All,Age75_79,[75-79],1216.00000000,2.43020165,,118.59665823,
+EU,Europe,POL,Poland,2020,All,Age80_84,[80-84],1547.00000000,2.24280909,,175.56502545,
+EU,Europe,POL,Poland,2020,All,Age85_over,[85+],2346.00000000,1.68241993,,284.46880362,

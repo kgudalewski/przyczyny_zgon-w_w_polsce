@@ -1,0 +1,26 @@
+Indicator Code: CG1150
+"Indicator Name: Digestive diseases"
+Export date: 1/13/2024 5:36:52 PM
+Source location: "WHO Mortality Database portal"
+"Indicator metadata: K20-K92"
+
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,"Age-standardized death rate per 100 000 standard population","Death rate per 100 000 population"
+EU,Europe,POL,Poland,2020,All,Age00,[0],3.00000000,0.23622047,,0.83070738,
+EU,Europe,POL,Poland,2020,All,Age01_04,[1-4],2.00000000,0.96618357,,0.12868862,
+EU,Europe,POL,Poland,2020,All,Age05_09,[5-9],1.00000000,0.65359477,,0.05222589,
+EU,Europe,POL,Poland,2020,All,Age10_14,[10-14],4.00000000,1.94174757,,0.19739790,
+EU,Europe,POL,Poland,2020,All,Age15_19,[15-19],7.00000000,1.09204368,,0.39329754,
+EU,Europe,POL,Poland,2020,All,Age20_24,[20-24],28.00000000,2.32945092,,1.40770507,
+EU,Europe,POL,Poland,2020,All,Age25_29,[25-29],133.00000000,7.48873874,,5.41468332,
+EU,Europe,POL,Poland,2020,All,Age30_34,[30-34],348.00000000,12.13389121,,12.34517974,
+EU,Europe,POL,Poland,2020,All,Age35_39,[35-39],623.00000000,13.14623338,,19.85470689,
+EU,Europe,POL,Poland,2020,All,Age40_44,[40-44],902.00000000,13.47072879,,30.25836349,
+EU,Europe,POL,Poland,2020,All,Age45_49,[45-49],1140.00000000,12.21734005,,43.84158420,
+EU,Europe,POL,Poland,2020,All,Age50_54,[50-54],1352.00000000,10.02595476,,60.34135713,
+EU,Europe,POL,Poland,2020,All,Age55_59,[55-59],1646.00000000,7.49408122,,70.81147542,
+EU,Europe,POL,Poland,2020,All,Age60_64,[60-64],2395.00000000,5.99274365,,88.67953032,
+EU,Europe,POL,Poland,2020,All,Age65_69,[65-69],2656.00000000,4.77328685,,107.24995134,
+EU,Europe,POL,Poland,2020,All,Age70_74,[70-74],1936.00000000,3.29509480,,105.40270530,
+EU,Europe,POL,Poland,2020,All,Age75_79,[75-79],1296.00000000,2.59008334,,126.39906995,
+EU,Europe,POL,Poland,2020,All,Age80_84,[80-84],1621.00000000,2.35009279,,183.96309389,
+EU,Europe,POL,Poland,2020,All,Age85_over,[85+],2719.00000000,1.94991466,,329.69764580,

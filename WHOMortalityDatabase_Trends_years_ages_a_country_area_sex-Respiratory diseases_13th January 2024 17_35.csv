@@ -1,0 +1,26 @@
+Indicator Code: CG1110
+"Indicator Name: Respiratory diseases"
+Export date: 1/13/2024 5:35:25 PM
+Source location: "WHO Mortality Database portal"
+"Indicator metadata: J30-J98"
+
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,"Age-standardized death rate per 100 000 standard population","Death rate per 100 000 population"
+EU,Europe,POL,Poland,2020,All,Age00,[0],0.00000000,0.00000000,,0.00000000,
+EU,Europe,POL,Poland,2020,All,Age01_04,[1-4],3.00000000,1.44927536,,0.19303293,
+EU,Europe,POL,Poland,2020,All,Age05_09,[5-9],1.00000000,0.65359477,,0.05222589,
+EU,Europe,POL,Poland,2020,All,Age10_14,[10-14],4.00000000,1.94174757,,0.19739790,
+EU,Europe,POL,Poland,2020,All,Age15_19,[15-19],7.00000000,1.09204368,,0.39329754,
+EU,Europe,POL,Poland,2020,All,Age20_24,[20-24],7.00000000,0.58236273,,0.35192627,
+EU,Europe,POL,Poland,2020,All,Age25_29,[25-29],7.00000000,0.39414414,,0.28498333,
+EU,Europe,POL,Poland,2020,All,Age30_34,[30-34],22.00000000,0.76708508,,0.78044240,
+EU,Europe,POL,Poland,2020,All,Age35_39,[35-39],32.00000000,0.67524794,,1.01982443,
+EU,Europe,POL,Poland,2020,All,Age40_44,[40-44],50.00000000,0.74671446,,1.67729288,
+EU,Europe,POL,Poland,2020,All,Age45_49,[45-49],75.00000000,0.80377237,,2.88431475,
+EU,Europe,POL,Poland,2020,All,Age50_54,[50-54],121.00000000,0.89729329,,5.40037294,
+EU,Europe,POL,Poland,2020,All,Age55_59,[55-59],297.00000000,1.35221271,,12.77704022,
+EU,Europe,POL,Poland,2020,All,Age60_64,[60-64],741.00000000,1.85412236,,27.43696533,
+EU,Europe,POL,Poland,2020,All,Age65_69,[65-69],1204.00000000,2.16379419,,48.61782433,
+EU,Europe,POL,Poland,2020,All,Age70_74,[70-74],1513.00000000,2.57514382,,82.37308529,
+EU,Europe,POL,Poland,2020,All,Age75_79,[75-79],1212.00000000,2.42220757,,118.20653764,
+EU,Europe,POL,Poland,2020,All,Age80_84,[80-84],1424.00000000,2.06448620,,161.60607385,
+EU,Europe,POL,Poland,2020,All,Age85_over,[85+],2016.00000000,1.44576240,,244.45401027,
